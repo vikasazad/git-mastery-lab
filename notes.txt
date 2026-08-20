@@ -1,0 +1,3 @@
+Learning Git by doing.
+
+Git staging area is a snapshot.
